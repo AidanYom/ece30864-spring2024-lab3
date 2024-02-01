@@ -7,3 +7,8 @@ stand up, sprint retro, and sprint planning meetings. The product owner's concer
 Sprint Retrospective: Discuss work done in the sprint, give feedback.
 Sprint Planning: Determine tasks to complete in the next sprint, move stories from backlog to new sprint.
 Standup: Discuss work completed yesterday, plan for the day, and bring up any concerns with team.
+
+Epic: Large body of work that will be broken down into stories.
+Story: A piece of work that needs to be completed for the epic, that is a single task.
+Bug: Smallest unit of work. A ticket to fix and error that was discovered.
+Task: This issue type is for tracking work to be completed that is not directly development. This could be documentation, an investigation, or code refactoring.
