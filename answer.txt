@@ -3,3 +3,7 @@ the business team and the development team. The product owner gives the team dir
 
 The product owner and scrum master will be communicating a lot together. The Scrum master is responsible for facilitating the sprints and leading the 
 stand up, sprint retro, and sprint planning meetings. The product owner's concern is business goals.
+
+Sprint Retrospective: Discuss work done in the sprint, give feedback.
+Sprint Planning: Determine tasks to complete in the next sprint, move stories from backlog to new sprint.
+Standup: Discuss work completed yesterday, plan for the day, and bring up any concerns with team.
