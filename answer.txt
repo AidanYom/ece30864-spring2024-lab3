@@ -1,1 +1,2 @@
-initial commit
+In a non-Agile project, the product manager is equivalent to the product owner. The product owner is essential, as that person is the intersection between
+the business team and the development team. The product owner gives the team direction and priority. 
